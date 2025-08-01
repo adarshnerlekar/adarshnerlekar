@@ -9,7 +9,7 @@
 - ## 💼 Projects:
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| **Student Management System** | JSP, Servlet, MySQL | Manage student records with CRUD operations |
+| **Student Management System** | Core Java, MySQL | Manage student records with CRUD operations |
 | **Tourism Management System** | HTML, CSS, JS | A static responsive website for tourism services |
 | **ATM Machine Simulator** | Core Java | Console-based banking app for transactions |
 | **Light Bulb Toggle** | HTML, CSS, JS | DOM manipulation to turn bulb ON/OFF |
