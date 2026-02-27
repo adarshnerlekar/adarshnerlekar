@@ -9,7 +9,9 @@
 - ## 💼 Projects:
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-|** Digital Loan Eligibility & Risk Analyzer**|Spring Boot,Spring Data JPA,Spring Security,Spiring JWT|Engineered over 12 REST APIs using Spring Boot and Spring       Data JPA to automate loan eligibility evaluations based on income|
+|** Digital Loan Eligibility & Risk Analyzer**|Spring Boot,Spring Data JPA,Spring Security,Spiring JWT|Developed a secure, scalable loan eligibility and risk analysis system using Spring Boot, featuring 12+ REST APIs, service-layer validations for risk categorization, JWT-based role authentication, efficient MySQL data management, and centralized exception handling for consistent API responses.|
+|** Smart Attendance Management System**|Spring Boot,Spring Data JPA,Spring Security,Spiring JWT|Built a secure, role-based attendance management system using Spring Boot with JWT authentication and RBAC for Admin, Teacher, and Student roles, featuring automated monthly reporting, efficient MySQL data handling with JPA/Hibernate, and centralized validation and exception handling for reliable and consistent system performance.|
+|**  Bus Tracking & Management System**|HTML,HTML5,CSS,CSS3, JavaScript,javaScript Es6,Bootstrap|Designed a centralized Admin Dashboard using MVC (JSP & Servlets) with full CRUD operations for bus, route, and schedule management, supported by a responsive Bootstrap-based UI and dynamic JavaScript to enhance navigation and data visibility across multiple modules|
 | **Student Management System** | Core Java, MySQL | Manage student records with CRUD operations |
 | **Tourism Management System** | HTML, CSS, JS | A static responsive website for tourism services |
 | **ATM Machine Simulator** | Core Java | Console-based banking app for transactions |
