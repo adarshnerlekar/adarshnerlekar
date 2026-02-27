@@ -2,13 +2,14 @@
 - 🎓I'm a Full Stack Java Developer Fresher, passionate about building web applications and solving real-world problems.
 - ## 🚀 Tech Stack:
 - **Languages:** Java, JavaScript, SQL
-- **Backend:** Spring Boot,Spring,JDBC,Hibernate, JSP, Servlet,
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap,React
+- **Backend:** Spring,Spring Boot,Spring Data JPA,Spring Security,Spiring JWT,Spring Microservices,Spring Web,Spring MVC,JDBC,Hibernate, JSP, Servlet,
+- **Frontend:** HTML,HTML5,CSS,CSS3, JavaScript,javaScript Es6,Bootstrap,React
 - **Database:** MySQL
-- **Tools:** Git, GitHub, Eclipse, VS Code, Maven
+- **Tools:** Git, GitHub, Eclipse, VS Code, Maven, Postman,
 - ## 💼 Projects:
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
+|** Digital Loan Eligibility & Risk Analyzer**|Spring Boot,Spring Data JPA,Spring Security,Spiring JWT|Engineered over 12 REST APIs using Spring Boot and Spring       Data JPA to automate loan eligibility evaluations based on income|
 | **Student Management System** | Core Java, MySQL | Manage student records with CRUD operations |
 | **Tourism Management System** | HTML, CSS, JS | A static responsive website for tourism services |
 | **ATM Machine Simulator** | Core Java | Console-based banking app for transactions |
